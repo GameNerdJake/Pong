@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ball\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Ball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Makes\ the\ ball\ move.\r\n
+comment3.params=
+comment3.target=void\ checkForBounce()
+comment3.text=\r\n\ Checks\ if\ the\ ball\ bounces\ and\ makes\ a\ sound\ if\ it\ does\r\n
+comment4.params=
+comment4.target=void\ checkForPoints()
+comment4.text=\r\n\ Checks\ if\ points\ should\ be\ given\r\n\ Also\ delays\ the\ ball\ upon\ startup/points\r\n
+comment5.params=
+comment5.target=void\ hitPaddle()
+comment5.text=\r\n\ Makes\ the\ ball\ bounce\ off\ of\ a\ paddle\r\n
+comment6.params=
+comment6.target=void\ checkForWin()
+comment6.text=\r\n\ Checks\ if\ player\ one\ or\ two\ wins\r\n
+numComments=7
